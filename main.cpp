@@ -104,7 +104,7 @@ void Draw()
 		cout << "#";
 	cout << endl;
 
-	
+	cout << "Snake Game created by MAiKo26";
 	
 	
 }
