@@ -37,8 +37,6 @@ This is a simple console-based Snake game implemented in C++.
 - Score and level tracking
 - Speed and difficulty levels
 
-## Author
-
-Created by [MAiKo26](https://github.com/MAiKo26).
+---
 
 Feel free to modify, improve, or share!
